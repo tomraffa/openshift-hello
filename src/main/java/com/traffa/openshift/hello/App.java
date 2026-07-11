@@ -66,7 +66,7 @@ public final class App {
 
         String response = """
             {
-              "message": "Hello from the updated MicroShift pipeline",
+              "message": "Hello from the updated MicroShift pipeline with git action",
               "version": "1.0.1",
               "hostname": "%s",
               "timestamp": "%s"
